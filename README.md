@@ -2,4 +2,4 @@
 
 - Coursework Files
 - Tutorial Files
-- COIL Files
+- COIL Project Files
